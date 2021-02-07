@@ -40,6 +40,18 @@ The database layer handles the database, such as MySQL, MongoDB, and more. All t
 
 https://javadeveloperzone.com/spring-boot/spring-boot-profiles-example/
 
+## Add Swagger
+
+@Api(value = "API Description") // it description of api at top used to Controller Class level, General info about API
+
+@ApiOperation(value = "It will return list of Employee")             // for description of API
+@ApiOperation(value = "It will return list of Employee", notes = "This is for note")           // add note of api
+
+@ApiOperation(value = "API Description",hidden = true)              // Hire from API from document
+@ApiOperation(value = "API Description",tags = "View")              // category of API
+
+https://javadeveloperzone.com/spring-boot/spring-boot-rest-api-document-using-swagger/
+
 ## Custom error page
 - disable standard error page
     - by application.properties
