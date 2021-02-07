@@ -30,3 +30,8 @@ http://plugins.netbeans.org/plugin/63124/spring-boot-tools-4-netbeans
 - https://javasterling.com/category/spring-boot/
 - https://www.vogella.com/tutorials/EclipseShortcuts/article.html
 - https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1037&context=csit_etds
+- https://www.jackrutorial.com/2018/04/spring-boot-with-bootstrap-example.html
+- https://www.codejava.net/frameworks/spring-boot/spring-boot-automatic-restart-using-spring-boot-devtools
+- https://www.codejava.net/frameworks/spring-boot/spring-boot-spring-data-jpa-mysql-example
+- https://mkyong.com/spring-boot/spring-boot-spring-data-jpa
+- https://jira.spring.io/browse/IDE-1388 (color console debug)
