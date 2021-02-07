@@ -25,6 +25,7 @@ http://plugins.netbeans.org/plugin/63124/spring-boot-tools-4-netbeans
 
 ## References
 
+- https://javadeveloperzone.com/spring-boot/spring-boot-development-tips/
 - https://www.springboottutorial.com/creating-spring-boot-project-with-eclipse-and-maven
 - https://javasterling.com/category/spring-boot/
 - https://www.vogella.com/tutorials/EclipseShortcuts/article.html

@@ -27,7 +27,7 @@ The persistence layer is responsible for translating the business objects from a
 - Database Layer
 The database layer handles the database, such as MySQL, MongoDB, and more. All the DB operations, such as CRUD, are performed in this layer.
 
-# Spring Modules
+## Spring Modules
 
 - Spring JDBC
 - Spring MVC
@@ -35,3 +35,17 @@ The database layer handles the database, such as MySQL, MongoDB, and more. All t
 - Spring AOP
 - Spring ORM
 - Spring Test
+
+## Profiles
+
+https://javadeveloperzone.com/spring-boot/spring-boot-profiles-example/
+
+## Custom error page
+- disable standard error page
+    - by application.properties
+    - by annotation
+- custom error page
+    - by ErrorController
+    - by Thymeleaf Error Page
+
+https://www.yawintutor.com/application-has-no-explicit-mapping-for-error-whitelabel-error-page-with-status-404/
