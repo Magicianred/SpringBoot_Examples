@@ -56,6 +56,8 @@ http://plugins.netbeans.org/plugin/63124/spring-boot-tools-4-netbeans
 - https://hellokoding.com/jpa-and-hibernate-course-in-practice-with-tutorials-and-examples-series/
 - https://hellokoding.com/full-stack-crud-web-app-and-restful-apis-web-services-example-with-spring-boot-jpa-hibernate-mysql-vuejs-and-docker/
 
+- https://www.html.it/guide/guida-java-spring/
+
 
 ### Test
 - https://www.tutorialspoint.com/spring_boot/spring_boot_rest_controller_unit_test.htm

@@ -1,5 +1,9 @@
 # Acronym
 
+## DAO
+*Data Access Object*
+un pattern architetturale che ha come scopo quello di separare le logiche di business da quelle di accesso ai dati
+
 ## DDL
 data definition language
 
@@ -29,6 +33,9 @@ Java Database Connectivity
 
 ### JPA
 *Java Persistence API*
+
+### JPMS
+*Java Platform Module System* or *Project Jigsaw*
 
 ### JPQL
 *Java Persistence Query Language*
